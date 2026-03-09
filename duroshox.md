@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
 
 A[SAP S4 HANA Public Cloud] --> B(Data Ingestion Layer)
@@ -30,3 +31,4 @@ Q --> R[Power BI Dashboards]
 
 O --> S[Advanced Analytics]
 S --> T[Predictive Models / ML]
+```
